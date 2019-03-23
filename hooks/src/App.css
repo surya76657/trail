@@ -1,0 +1,10 @@
+.user-details {
+  padding: 16px;
+  margin: 15px;
+  color: #fafafa;
+  background: #020202;
+}
+.user-details.even {
+  color: #747474;
+  background-color: aqua;
+}
